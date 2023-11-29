@@ -1,6 +1,6 @@
 ## JamDay
 
-## Installar dependencias
+## Instalar dependencias
 
 ### Laravel
 
@@ -18,6 +18,6 @@ Descargar el env de la ruta https://drive.google.com/drive/folders/1O6a4R7OVRSUU
 
 php artisan migrate
 
-### Lanzar servidor
+### servidor
 
 npm start
